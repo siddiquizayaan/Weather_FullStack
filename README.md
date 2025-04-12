@@ -4,7 +4,7 @@ A fullstack weather dashboard that allows users to search weather by city or use
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React, Axios, plain CSS
+- **Frontend**: React, Axios, CSS
 - **Backend**: Node.js, Express, MongoDB, Mongoose, Axios
 - **APIs Used**:
   - OpenWeatherMap (Current + Forecast)
