@@ -43,9 +43,9 @@ cd ../backend
 npm install
 ```
 ### 3. Setup .env file (backend/.env)
-  WEATHER_API_KEY=your_openweathermap_api_key
-  YOUTUBE_API_KEY=your_youtube_api_key
-  MONGO_URI=your_mongodb_connection_string
+  - WEATHER_API_KEY=your_openweathermap_api_key
+  - YOUTUBE_API_KEY=your_youtube_api_key
+  - MONGO_URI=your_mongodb_connection_string
 
 ### 4. Start The App
 #### Backend
